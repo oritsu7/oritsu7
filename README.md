@@ -22,10 +22,6 @@
 <br/>
 
 
-Building things, exploring systems, and learning how they work.
-
-[![Email](https://img.shields.io/badge/Email-0B1721?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:oritsuminamoto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0B1721?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/oritsu7)
 
 </div>
 
@@ -41,7 +37,7 @@ I'm a BCA student interested in software development, open source, and cybersecu
 - I enjoy exploring different programming languages, frameworks, and technologies.
 
 If you're working on something interesting, feel free to reach out.
-
+[![Email](https://img.shields.io/badge/Email-0B1721?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:oritsuminamoto@gmail.com)
 ---
 
 ## Tech Stack
