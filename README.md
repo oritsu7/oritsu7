@@ -18,13 +18,9 @@
     alt="Animated typing introduction"
   />
 </p>
-
 <br/>
 
-
-
 </div>
-
 ---
 
 ## About Me
@@ -37,7 +33,9 @@ I'm a BCA student interested in software development, open source, and cybersecu
 - I enjoy exploring different programming languages, frameworks, and technologies.
 
 If you're working on something interesting, feel free to reach out.
+
 [![Email](https://img.shields.io/badge/Email-0B1721?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:oritsuminamoto@gmail.com)
+
 ---
 
 ## Tech Stack
