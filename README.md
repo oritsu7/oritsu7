@@ -134,13 +134,6 @@ If you're working on something interesting, feel free to reach out.
 ![Power BI](https://img.shields.io/badge/Power_BI-0B1721?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-0B1721?style=flat-square&logo=gutenberg&logoColor=077CB2)
 
----
-
-## GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oritsu7&bg_color=0B1721&color=D5E1E8&line=5DB7D6&point=FFFFFF&area=true&hide_border=true)](https://github.com/oritsu7)
-
----
 
 <div align="center">
 
