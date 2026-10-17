@@ -9,12 +9,12 @@
 
 <!-- Animated introduction -->
 <h3 align="center">
-  BCA Student • Cybersecurity Enthusiast • Developer
+  BCA Student • Developer • OpenSource
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=5DB7D6&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+cybersecurity;Building+software%2C+one+project+at+a+time;Experimenting+with+Arduino+%26+Raspberry+Pi;Learning+by+building"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=5DB7D6&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+Coding;Building+software%2C+one+project+at+a+time;Experimenting+with+Arduino+%26+Raspberry+Pi;Learning+by+building"
     alt="Animated typing introduction"
   />
 </p>
