@@ -1,6 +1,10 @@
 <div align="center">
-
-# Oritsu
+  <img
+    src="assets/banner.gif"
+    alt="Oritsu animated banner"
+    width="100%"
+  />
+</div>
 
 ### Developer · BCA Student · Cybersecurity Enthusiast
 
@@ -110,7 +114,7 @@ If you're working on something interesting, feel free to reach out.
 ### Hardware & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-0B1721?style=flat-square&logo=arduino&logoColor=00979D)
-
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0B1721?style=flat-square&logo=raspberrypi&logoColor=C51A4A)
 ### Design & Creative Tools
 
 ![GIMP](https://img.shields.io/badge/GIMP-0B1721?style=flat-square&logo=gimp&logoColor=657D8B)
