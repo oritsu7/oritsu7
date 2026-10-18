@@ -131,9 +131,11 @@ If you're working on something interesting, feel free to reach out.
 ![Canva](https://img.shields.io/badge/Canva-0B1721?style=flat-square&logo=canva&logoColor=00C4CC)
 ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-0B1721?style=flat-square&logo=clipstudiopaint&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-0B1721?style=flat-square&logo=notion&logoColor=FFFFFF)
-![Power BI](https://img.shields.io/badge/Power_BI-0B1721?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Obsidian](https://img.shields.io/badge/Obsidian-0B1721?style=flat-square&logo=obsidian&logoColor=7C3AED)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-0B1721?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-0B1721?style=flat-square&logo=gutenberg&logoColor=077CB2)
-
+![Power BI](https://img.shields.io/badge/Power_BI-0B1721?style=flat-square&logo=powerbi&logoColor=F2C811)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-0B1721?style=flat-square&logo=libreoffice&logoColor=18A303)
 
 ---
 
