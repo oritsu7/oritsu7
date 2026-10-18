@@ -141,7 +141,7 @@ If you're working on something interesting, feel free to reach out.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oritsu7&layout=compact&langs_count=10&theme=transparent&bg_color=0B1721&title_color=5DB7D6&text_color=D5E1E8&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oritsu7&layout=compact&langs_count=12&theme=transparent&bg_color=0B1721&title_color=5DB7D6&text_color=D5E1E8&hide_border=true"
     alt="Most used programming languages"
   />
 </p>
